@@ -1,3 +1,4 @@
 biobakery/kneaddata
 metabat/metabat
 staphb/spades
+vout/megahit
